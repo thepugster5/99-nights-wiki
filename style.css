@@ -30,6 +30,12 @@ body {
     text-decoration-line: underline;
 }
 
+.bodyText {
+    color: #ededed;
+    font-size: 20px;
+    font-family: arial;
+}
+
 .link {
     color: #ededed;
     font-size: 25px;
